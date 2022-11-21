@@ -1,0 +1,16 @@
+
+
+html, 
+body{
+  font-family: 'Poppins', sans-serif;
+}
+
+.card-header {
+  background-color: #406882;
+  color: white;
+}
+
+.tableData {
+  background-color: #406882;
+  color: white;
+}
